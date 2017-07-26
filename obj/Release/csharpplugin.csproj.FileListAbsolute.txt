@@ -1,0 +1,4 @@
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\bin\Release\csharpplugin.dll
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\obj\Release\csharpplugin.dll
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\obj\Release\csharpplugin.csprojResolveAssemblyReference.cache
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\bin\Release\MSIAfterburner.NET.dll

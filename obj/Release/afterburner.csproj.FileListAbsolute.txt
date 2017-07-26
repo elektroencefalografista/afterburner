@@ -1,0 +1,8 @@
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\bin\Release\MSIAfterburner.NET.dll
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\bin\Release\afterburner.dll
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\obj\Release\afterburner.dll
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\obj\Release\afterburner.csprojResolveAssemblyReference.cache
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\smartie_afterburner\bin\Release\afterburner.dll
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\smartie_afterburner\bin\Release\MSIAfterburner.NET.dll
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\smartie_afterburner\obj\Release\afterburner.csprojResolveAssemblyReference.cache
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\smartie_afterburner\obj\Release\afterburner.dll

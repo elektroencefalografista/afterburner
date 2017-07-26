@@ -1,0 +1,5 @@
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\bin\Debug\csharpplugin.dll
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\bin\Debug\csharpplugin.pdb
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\obj\Debug\csharpplugin.dll
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\obj\Debug\csharpplugin.pdb
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\lcd_smartie\bin\Debug\MSIAfterburner.NET.dll

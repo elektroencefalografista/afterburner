@@ -1,0 +1,5 @@
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\smartie_afterburner\bin\Debug\afterburner.dll
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\smartie_afterburner\bin\Debug\afterburner.pdb
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\smartie_afterburner\bin\Debug\MSIAfterburner.NET.dll
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\smartie_afterburner\obj\Debug\afterburner.dll
+C:\Users\Drath\Documents\Visual Studio 2010\Projects\smartie_afterburner\obj\Debug\afterburner.pdb
