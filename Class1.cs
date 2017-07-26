@@ -31,5 +31,5 @@ namespace afterburner
 
         }
         public int GetMinRefreshInterval() { return 300; }
-	}
+    }
 }
